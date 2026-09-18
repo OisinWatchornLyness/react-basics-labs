@@ -47,3 +47,8 @@ div {
   margin-top: 10px;
   font-style: italic;
 }
+
+.priority {
+  font-size: 1.1em;
+  font-weight: bold;
+}
